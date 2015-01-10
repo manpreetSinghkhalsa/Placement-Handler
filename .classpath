@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/manpreet/JunoMaven/PH__New/lib/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manpreet/JunoMaven/PH__New/lib/Excel External Jars/dom4j-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manpreet/JunoMaven/PH__New/lib/Excel External Jars/itextpdf-5.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manpreet/JunoMaven/PH__New/lib/Excel External Jars/itextpdf-5.5.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manpreet/JunoMaven/PH__New/lib/Excel External Jars/itextpdf-5.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manpreet/JunoMaven/PH__New/lib/Excel External Jars/itext-pdfa-5.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manpreet/JunoMaven/PH__New/lib/Excel External Jars/itext-pdfa-5.5.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manpreet/JunoMaven/PH__New/lib/Excel External Jars/itext-pdfa-5.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manpreet/JunoMaven/PH__New/lib/Excel External Jars/itext-xtra-5.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manpreet/JunoMaven/PH__New/lib/Excel External Jars/itext-xtra-5.5.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manpreet/JunoMaven/PH__New/lib/Excel External Jars/itext-xtra-5.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manpreet/JunoMaven/PH__New/lib/Excel External Jars/poi-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manpreet/JunoMaven/PH__New/lib/Excel External Jars/poi-examples-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manpreet/JunoMaven/PH__New/lib/Excel External Jars/poi-excelant-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manpreet/JunoMaven/PH__New/lib/Excel External Jars/poi-ooxml-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manpreet/JunoMaven/PH__New/lib/Excel External Jars/poi-ooxml-schemas-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manpreet/JunoMaven/PH__New/lib/Excel External Jars/poi-scratchpad-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manpreet/JunoMaven/PH__New/lib/Excel External Jars/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
